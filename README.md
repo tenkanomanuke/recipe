@@ -1,14 +1,14 @@
 ## Recipe
 ### 目次
-1. [概要](#abstract)
-1. [麺類](#noodles)
+- [概要](#abstract)
+- [麺類](#noodles)
   1. [担々麺](#tantanmen)
   1. [油そば](#aburasoba)
-1. [卵料理](#egg)
+- [卵料理](#egg)
   1. [半熟卵](#hanjukutamago)
   1. [煮玉子](#nitamago)
   1. [温泉卵](#onsentamago)
-1. [肉料理](#niku)
+- [肉料理](#niku)
   1. [チャーシュー](#tya-syu-)
 
 
