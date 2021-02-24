@@ -11,7 +11,7 @@
 - [肉料理](#niku)
   1. [チャーシュー](#tya-syu-)
 - [イタリアン](#italy)
-  1. [ピザ][#pizza]
+  1. [ピザ](#pizza)
 ---
 
 <a id="abstract"></a>
